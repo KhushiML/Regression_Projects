@@ -13,3 +13,7 @@ researchers because the duration of travel, departure location, arrival
 location, and time elapsed is explicitly recorded. Bike sharing systems
 therefore function as a sensor network, which can be used for studying
 mobility in a city.
+
+## Problem Statement
+In this project, Our task is to combine historical usage patterns with
+weather data in order to forecast hourly bike rental demand.
