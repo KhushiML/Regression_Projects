@@ -1,8 +1,8 @@
 # Regression_Projects
 
-#Project 5 : To Forecast hourly bike rental Demand#
+# Project 5 : To Forecast hourly bike rental Demand#
 
-##Description 
+## Description 
 Bike sharing systems are a means of renting bicycles where the process of
 obtaining membership, rental, and bike return is automated via a network of
 kiosk locations throughout a city. Using these systems, people are able to
