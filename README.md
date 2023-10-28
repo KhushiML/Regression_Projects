@@ -43,4 +43,7 @@ provided with the information of the call such as the duration of the call, day
 and month of the call, etc. Given this information, our task is to predict if
 the client will subscribe to term deposit.
 
+# Project 7 : Linear Regression
 
+## Description
+Let’s say you are a bakery owner. You want to predict how much money you will make in a day based on the number of cupcakes you sell.
