@@ -47,3 +47,8 @@ the client will subscribe to term deposit.
 
 ## Description
 Let’s say you are a bakery owner. You want to predict how much money you will make in a day based on the number of cupcakes you sell.
+
+# Project 8 : Polynomial Regression
+
+## Description
+Suppose you work as a Data Science professional in a company that sells a certain product. You have historical sales data from past years and want to predict next year’s sales.
